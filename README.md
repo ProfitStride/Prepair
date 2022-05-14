@@ -38,11 +38,12 @@ Es un proyecto
 ---
 # Modelos disponibles en la primera versión de la aplicación 
 
-| Marca  | Modelo  | Serie                    |
-|--------|---------|--------------------------|
-| Toyota | Corolla | Sedán 125H Business Plus |
-| Tesla  | Model S | 100D                     |
-| Ford   | Focus   | 1.5 TDCi E6              |
+| Marca  | Modelo  | Serie                    | AÑO  |
+|--------|---------|--------------------------|------|
+| Toyota | Corolla | Sedán 125H Business Plus | 2018 |
+| Tesla  | Model S | 100D                     | 2016 |
+| Ford   | Focus   | 1.5 TDCi E6              | 2017 |
+| Audi   | A6      | 2.4                      | 2015 |
 
 •	En tres secciones, fragmentos de código marcados como tal.
 •	Una tabla con al menos cinco filas y cuatro columnas.
