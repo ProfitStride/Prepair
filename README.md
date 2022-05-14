@@ -7,7 +7,7 @@ Prepair es una aplicación en la que, a través de realizar fotos a nuestro veh�
 * Será gratuita 
 * Crearemos diferentes servicios para monetizar la plataforma. Uno de ellos será el crear planes en las que, pagando una mensulidad de entre 8€-10€ al mes, disfrutarán de diferentes ventajas 
 
-###Objetivos
+### Objetivos
 1. Lanzar la aplicación al público español -> Esto lo haremos así, en una región potencial y específica, para ver si la aplicación tiene utilidad. Si es así, la lanzaremos al mercado de forma global
 2. Desarrollar la aplicación mediante Python (Cuestiones de inteligencia artificial) y la aplicación en sí con Flutter. Esto es debido a que Python tiene muchas librerías dedicadas a este sector, y son muy potentes. Y Flutter porque a nivel diseño quedará muy bien. 
 ##Conclusión 
@@ -20,4 +20,4 @@ Prepair es una aplicación en la que, a través de realizar fotos a nuestro veh�
 •	Líneas horizontales (al menos 3).
 •	Referencias bibliográficas al final (sección bibliografía).
 •	Comentarios.
-![PREPAIR](![PREPAIR](https://user-images.githubusercontent.com/102462223/168440039-d79bae94-2f76-4ff5-b4e4-c0f684d273c6.png)"T´ıtulooptional")
+![PREPAIR](https://user-images.githubusercontent.com/102462223/168440039-d79bae94-2f76-4ff5-b4e4-c0f684d273c6.png)"T´ıtulooptional")
