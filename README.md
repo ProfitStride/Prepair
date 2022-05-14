@@ -44,7 +44,14 @@ Es un proyecto
 | Tesla  | Model S | 100D                     | 2016 |
 | Ford   | Focus   | 1.5 TDCi E6              | 2017 |
 | Audi   | A6      | 2.4                      | 2015 |
+<!-- Seguramente nos centremos en buscar los vehículos más comunes, en base a un estudio de mercado o mediante big data, y así evitamos errores de lanzamiento-->
 
-•	En tres secciones, fragmentos de código marcados como tal.
-•	Una tabla con al menos cinco filas y cuatro columnas.
-•	Referencias bibliográficas al final (sección bibliografía).
+# Bibliografía 
+Todos los vehículos -> https://www.autoscout24.es/
+Flutter -> https://flutter.dev/?gclsrc=ds&gclsrc=ds
+Python -> https://www.python.org/
+Tesla model S -> https://www.tesla.com/es_es/models
+Ford Focus -> https://www.ford.es/turismos/nuevo-focus
+Audi A6 -> https://www.audi.es/es/web/es/modelos/a6/a6.html
+Toyota Corolla -> https://www.toyota.es/coches/corolla
+
