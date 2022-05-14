@@ -1,0 +1,2 @@
+# Prepair
+Prepair es una aplicación en la que, a través de realizar fotos a nuestro vehículo, podremos obtener mediante inteliencia artificial, información sobre los gastos de reparación y mantenimiento, e información acerca del concesionario y taller de reparación más cercano, tanto para que nos resuelvan dudas como para que se nos realice la reparación. La finalidad de esta aplicación es facilitar el no tener que ir a diferentes sitios y perder el tiempo. En menos de 30 minutos el usuario dispondrá de toda la información. 
